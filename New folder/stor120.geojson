@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "stor120",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.051161876724478, 35.910773053822716 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ -79.051369937291327, 35.910698290139983 ] } }
+]
+}

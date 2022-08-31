@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geog370",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -79.050034918795504, 35.91121434878707 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -79.049831282409869, 35.91127260120102 ] } }
+]
+}
